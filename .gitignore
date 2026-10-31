@@ -1,0 +1,5 @@
+JgaModTool.exe
+JgaModTool.tmp.exe
+__pycache__/
+*.pyc
+engine/python/
