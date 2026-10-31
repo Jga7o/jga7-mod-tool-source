@@ -1,0 +1,13 @@
+{
+ "about": "M14b mock body, part 'leather' -> host M38 (atlasmerge spec): boots, pants, corset and the 11 belt pieces.",
+ "host": "M38",
+ "atlas_size": 2048,
+ "mask_size": 256,
+ "margin": 4,
+ "host_mult": 0.9406,
+ "mask_neutral": 148,
+ "groups": [
+  {"name": "leather (host)", "pieces": ["M38", "M18", "M25"], "colour": "B12", "normal": "B13", "mask": "B14", "mult": 0.9406},
+  {"name": "belt", "pieces": ["M04", "M10", "M11", "M17", "M21", "M23", "M31", "M35", "M39", "M43", "M44"], "colour": "B40", "normal": "B41", "mask": null, "mult": 1.0}
+ ]
+}

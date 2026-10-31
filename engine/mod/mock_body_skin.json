@@ -1,0 +1,12 @@
+{
+ "about": "M16 rehearsal, part 'skin' -> host M42 (atlasmerge spec): the two right-hand wraps M42 + M29 (skin-like material) as a skin part of the mock body.",
+ "host": "M42",
+ "atlas_size": 1024,
+ "mask_size": 256,
+ "margin": 4,
+ "host_mult": 1.0,
+ "mask_neutral": 148,
+ "groups": [
+  {"name": "wraps", "pieces": ["M42", "M29"], "colour": "B10", "normal": "B11", "mask": null, "mult": 1.0}
+ ]
+}

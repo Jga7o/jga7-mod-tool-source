@@ -1,0 +1,15 @@
+{
+ "about": "M14b mock body, part 'fabric' -> host M32 (atlasmerge spec): hood, shirt (outfit option 1), linen. The UV area of the kept hood buttons M12 (they share M32's textures) stays free.",
+ "host": "M32",
+ "atlas_size": 2048,
+ "mask_size": 256,
+ "margin": 4,
+ "host_mult": 1.0,
+ "mask_neutral": 156,
+ "reserve": ["M12"],
+ "groups": [
+  {"name": "hood", "pieces": ["M32"], "colour": "B15", "normal": "B16", "mask": "B17", "mult": 1.0},
+  {"name": "shirt", "pieces": ["M33"], "colour": "B37", "normal": "B38", "mask": "B39", "mult": 0.9406},
+  {"name": "linen", "pieces": ["M30"], "colour": "B21", "normal": "B23", "mask": null, "mult": 1.0}
+ ]
+}
