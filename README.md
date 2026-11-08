@@ -2,7 +2,7 @@
 
 Make, install and restore Amicia mods for A Plague Tale: Innocence (Steam). Free Windows tool by Jga7.
 
-**Download the ready tool:** [Gumroad](https://fdxskd.gumroad.com/l/ludzha) ·
+**Download the ready tool:** [Gumroad](https://jga7.gumroad.com/l/ludzha) ·
 [Nexus Mods](https://www.nexusmods.com/aplaguetaleinnocence/mods/48)
 
 This repository holds the tool's source. It contains no game files: the engine reads each player's own game files
